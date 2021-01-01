@@ -65,7 +65,7 @@
       <div id="sidebar_container">
         <div class="sidebar">
 	<br>
-	<img src="C:\photo\lekha photo.jpg" border="5" width="160">
+	<img src="C:/photo/lekha photo.jpg" border="5" width="160">
         </div>
         <br><br><br>
         <div class="sidebar">
